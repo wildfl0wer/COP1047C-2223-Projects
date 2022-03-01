@@ -18,5 +18,5 @@ taxableIncome = (grossIncome - STANDARD_DEDUCTION -
 incomeTax = taxableIncome * TAX_RATE
 
 # The income tax is expressed as a decimal number
-# print (f"The income tax is ${incomeTax:.2f}",)
-print (f"The income tax is ${incomeTax}",)
+# print (f"The income tax is ${incomeTax:.2f}")
+print (f"The income tax is ${incomeTax}")
