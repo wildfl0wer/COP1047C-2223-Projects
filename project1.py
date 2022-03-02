@@ -11,7 +11,7 @@ DEPENDENT_DEDUCTION = 3000.00    # Deduction per dependent
 # Gross income must be entered to the nearest penny
 grossIncome = float(input("Enter the gross income: "))
 
-numDependents = input("Enter the number of dependents: ")
+numDependents = int(input("Enter the number of dependents: "))
 numDependents = float(numDependents)
 
 taxableIncome = (grossIncome - STANDARD_DEDUCTION -
