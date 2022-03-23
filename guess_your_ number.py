@@ -7,6 +7,12 @@ PSEUDOCODE:
 --If yes, skip loop, print message, and end program.
 
 While no continue Guessing Loop:
+(Guessing Loop is inspired by bindary search.
+The guess being searched for is in a list
+that is generated each time after a guess is
+incorrect with the range determined by the 
+previous guess and user input.)
+
 -Higher or lower?
 --If higher:
         list_start = guess + 1
