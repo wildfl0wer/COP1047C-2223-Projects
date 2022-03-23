@@ -12,7 +12,7 @@
 ###
 import random
 
-fortunes = ["Delight the world with compassion, kindness, and grace.",
+fortunes = ["A child not embraced by the village will burn it down to feel its warmth.",
             "Experience is what you have left when everything else is gone.",
             "Don't pursue happiness. Create it.",
             "All things are difficult before they are easy.",
